@@ -2,7 +2,7 @@
   Portfolio Website - v2.0<br/>
  </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" style = "hieght : 30vh"/>
+  <img alt="Demo" src="./Images/readme-img1.png" hieght = "600"/>
 </div>
 
 <br/>
