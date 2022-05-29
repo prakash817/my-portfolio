@@ -2,6 +2,7 @@
   Portfolio Website - v2.0<br/>
  </h2>
 <div align="center">
+  <img alt="Demo" src="./Images/readme-img.png" height = "600"/>
   <img alt="Demo" src="./Images/readme-img1.png" height = "600"/>
 </div>
 
