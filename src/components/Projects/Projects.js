@@ -26,7 +26,7 @@ function Projects() {
               imgPath={meesho}
               isBlog={false}
               title="meesho"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="meesho is an e-commerce website it provides a large variety of products. A collaborative project built by 6 member team in 5 days. tech used are HTML ,CSS and JavaScript ."
               link="https://github.com/prakash817/meesho"
             />
           </Col>
@@ -36,7 +36,7 @@ function Projects() {
               imgPath={netmeds}
               isBlog={false}
               title="netmeds"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description=" netmeds is a one of India's most trusted pharmacies. it is a collaborative project built by 5 member team. tech used are   HTML ,CSS and JavaScript. we have used netlify for deployment"
               link="https://github.com/prakash817/netmedspharmencyclone"
             />
           </Col>
