@@ -9,7 +9,7 @@ function Type() {
           "Developer",
           "Deep Learning Engineer",
           "MERN Stack Developer",
-          "Open Source Contributor",
+          "DataStructure and Algoritham Problem Solver",
         ],
         autoStart: true,
         loop: true,
